@@ -1,2 +1,6 @@
 # project1
-Collaborative project in DSA. 
+Description:
+    Collaborative project in DSA. 
+
+
+For Educational Purposes Only
